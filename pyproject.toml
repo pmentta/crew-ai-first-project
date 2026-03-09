@@ -1,0 +1,12 @@
+[project]
+name = "crew-ai-first-project"
+version = "0.1.0"
+description = "First CrewAI project"
+dependencies = [
+    "crewai",
+    "python-dotenv"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

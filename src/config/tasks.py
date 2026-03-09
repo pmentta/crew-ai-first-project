@@ -1,5 +1,5 @@
 from crewai import Task
-from agents import research_agent, analysis_agent, writer_agent
+from .agents import research_agent, analysis_agent, writer_agent
 
 research_task = Task(
     description="Pesquise informações relevantes sobre {topic}",

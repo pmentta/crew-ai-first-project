@@ -2,3 +2,7 @@ crewai
 langchain
 openai
 python-dotenv
+streamlit
+markdown
+pdfkit
+reportlab
